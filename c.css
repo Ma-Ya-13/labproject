@@ -13,7 +13,7 @@ header img{
   /* height: 50vh; */
 }
 header a{
-  color: white;
+  color: rgb(244, 243, 243);
   padding: 1.25rem 0.625rem;
   text-align: center;
   text-decoration: none;
@@ -82,7 +82,7 @@ nav button a{
   background:linear-gradient(to right,orange,red);
 }
 nav button a:hover{
-  background:linear-gradient(to right,red,orange);
+  background:linear-gradient(to right,red,rgb(236, 158, 14));
 }
 /* Cards Layout */
 .cards {
